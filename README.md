@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Google, Yandex
 - 📫 How to reach me:
 vk: https://vk.com/dsoyka
+email: soyka.danil@mail.ru
 
 <!---
 dan1lo4ka/dan1lo4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
